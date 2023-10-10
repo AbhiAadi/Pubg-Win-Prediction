@@ -26,9 +26,9 @@ To prepare the data for modeling, we perform the following data wrangling steps:
 
 - Loading the dataset
 - Performing the required operation on data for data cleaning
-- Handling missing values (if any)
+- Handling missing values 
 - Feature engineering
-- Encoding categorical variables (if any)
+- Encoding categorical variables 
 - Splitting the data into training and testing sets
 
 ### Model Training
